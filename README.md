@@ -7,6 +7,5 @@
 ## all lang content rendered in `index.php` file
 
 ```php
-<?php
-  require_once 'init.php'
+<p>This is P </p>
 ```
