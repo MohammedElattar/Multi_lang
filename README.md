@@ -6,6 +6,7 @@
 
 ## all lang content rendered in `index.php` file
 
-```
-require_once 'init.php'
+```php
+<?php
+  require_once 'init.php'
 ```
