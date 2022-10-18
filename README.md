@@ -5,7 +5,3 @@
 ## we use `init.php` file to include the lang file based on the default lang on your system
 
 ## all lang content rendered in `index.php` file
-
-```html
-<p>This is P </p>
-```
