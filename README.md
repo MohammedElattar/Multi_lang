@@ -6,6 +6,3 @@
 
 ## all lang content rendered in `index.php` file
 
-```cmd
-npm install
-```
