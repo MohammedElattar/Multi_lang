@@ -6,6 +6,6 @@
 
 ## all lang content rendered in `index.php` file
 
-```php
+```html
 <p>This is P </p>
 ```
